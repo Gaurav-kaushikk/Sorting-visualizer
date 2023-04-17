@@ -1,0 +1,41 @@
+.about{
+    border: 1px solid black;
+    margin: 5%;
+    background-color: rgb(11, 190, 190);
+    color: rgb(224, 220, 9);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+}
+.logobars{
+  margin-right: 20px;
+    font-size: 20px;
+    font-weight:lighter;
+    font-style: italic;
+}
+.logobars2{
+    font-size: 25px;
+    margin-right: 2px;
+    font-weight:lighter;
+    font-style: italic;
+    /* height: 20px; */
+}
+.logobars3{
+    font-weight:lighter;
+    margin-right: 2px;
+    font-style: italic;
+    /* height: 30px; */
+    font-size: 30px;
+}
+
+li{
+    /* border: 1px solid black; */
+    margin: 0px;
+    width: fit-content;
+}
+h4{
+    /* border: 1px solid black; */
+   width: fit-content;
+}
+p{
+  font-weight: bold;
+}
